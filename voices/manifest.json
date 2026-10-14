@@ -1,0 +1,1798 @@
+{
+ "credit": [
+  "박창수",
+  "다은",
+  "연자",
+  "준기"
+ ],
+ "coaches": {
+  "bro": {
+   "voice": "박창수",
+   "clips": {
+    "hello": [
+     {
+      "file": "voices/bro/hello-1.mp4",
+      "text": "야, 나 왔다. 오늘부터 내가 잡도리한다."
+     },
+     {
+      "file": "voices/bro/hello-2.mp4",
+      "text": "뭘 봐. 할 거 없냐? 하나 적어."
+     },
+     {
+      "file": "voices/bro/hello-3.mp4",
+      "text": "오늘도 왔냐. 그래, 하는 놈은 한다."
+     },
+     {
+      "file": "voices/bro/hello-4.mp4",
+      "text": "핑계는 집에 두고 와라. 시작하자."
+     },
+     {
+      "file": "voices/bro/hello-5.mp4",
+      "text": "인생은 실전이다. 오늘 뭐 할래?"
+     },
+     {
+      "file": "voices/bro/hello-6.mp4",
+      "text": "내가 왜 왔겠냐. 너 정신 차리게 하려고."
+     }
+    ],
+    "add": [
+     {
+      "file": "voices/bro/add-1.mp4",
+      "text": "적었으면 하는 거다. 약속이다."
+     },
+     {
+      "file": "voices/bro/add-2.mp4",
+      "text": "좋아. 말로만 하지 마라."
+     },
+     {
+      "file": "voices/bro/add-3.mp4",
+      "text": "좋다. 이제 도망 못 간다."
+     },
+     {
+      "file": "voices/bro/add-4.mp4",
+      "text": "적은 순간부터 카운트다운이다."
+     },
+     {
+      "file": "voices/bro/add-5.mp4",
+      "text": "그 목표, 내가 기억한다. 잊지 마라."
+     },
+     {
+      "file": "voices/bro/add-6.mp4",
+      "text": "크게 잡았네? 좋아, 끝까지 간다."
+     }
+    ],
+    "soon": [
+     {
+      "file": "voices/bro/soon-1.mp4",
+      "text": "10분 남았다. 하던 거 정리해."
+     },
+     {
+      "file": "voices/bro/soon-2.mp4",
+      "text": "곧이다. 물 떠놓고 자리 잡아."
+     },
+     {
+      "file": "voices/bro/soon-3.mp4",
+      "text": "곧이다. 핸드폰 슬슬 내려놔."
+     },
+     {
+      "file": "voices/bro/soon-4.mp4",
+      "text": "준비 운동 해라. 곧 간다."
+     },
+     {
+      "file": "voices/bro/soon-5.mp4",
+      "text": "10분 뒤에 핑계 대면 진짜 혼난다."
+     },
+     {
+      "file": "voices/bro/soon-6.mp4",
+      "text": "마지막 10분이다. 화장실 다녀와."
+     }
+    ],
+    "alarm": [
+     {
+      "file": "voices/bro/alarm-1.mp4",
+      "text": "야!! 일어나! 지금 당장 시작해!"
+     },
+     {
+      "file": "voices/bro/alarm-2.mp4",
+      "text": "시간 됐다! 핸드폰 내려놔!"
+     },
+     {
+      "file": "voices/bro/alarm-3.mp4",
+      "text": "5초 준다! 시작 안 누르냐!"
+     },
+     {
+      "file": "voices/bro/alarm-4.mp4",
+      "text": "일어나라!! 오늘의 너는 어제와 달라야 한다!"
+     },
+     {
+      "file": "voices/bro/alarm-5.mp4",
+      "text": "지금 안 일어나면 평생 이렇게 산다!"
+     },
+     {
+      "file": "voices/bro/alarm-6.mp4",
+      "text": "알람 끄지 마! 몸을 일으켜!"
+     }
+    ],
+    "snooze": [
+     {
+      "file": "voices/bro/snooze-1.mp4",
+      "text": "5분? 5분이 쌓여서 5년 된다."
+     },
+     {
+      "file": "voices/bro/snooze-2.mp4",
+      "text": "딱 5분이다. 그 뒤엔 없다."
+     },
+     {
+      "file": "voices/bro/snooze-3.mp4",
+      "text": "또 미루냐? 미루는 것도 습관이다."
+     },
+     {
+      "file": "voices/bro/snooze-4.mp4",
+      "text": "5분 줬다. 이번이 마지막이다."
+     },
+     {
+      "file": "voices/bro/snooze-5.mp4",
+      "text": "누워서 성공한 사람은 없다."
+     },
+     {
+      "file": "voices/bro/snooze-6.mp4",
+      "text": "알았다. 근데 다음 알람은 더 세게 간다."
+     }
+    ],
+    "skip": [
+     {
+      "file": "voices/bro/skip-1.mp4",
+      "text": "오늘 패스하면 내일도 패스다."
+     },
+     {
+      "file": "voices/bro/skip-2.mp4",
+      "text": "그래, 쉬어라. 남들은 달린다."
+     },
+     {
+      "file": "voices/bro/skip-3.mp4",
+      "text": "패스? 그래, 오늘 너는 졌다."
+     },
+     {
+      "file": "voices/bro/skip-4.mp4",
+      "text": "쉬는 건 좋은데 도망은 안 된다."
+     },
+     {
+      "file": "voices/bro/skip-5.mp4",
+      "text": "내일 두 배다. 약속해라."
+     },
+     {
+      "file": "voices/bro/skip-6.mp4",
+      "text": "오늘 패스한 거, 내일의 네가 갚는다."
+     }
+    ],
+    "start": [
+     {
+      "file": "voices/bro/start-1.mp4",
+      "text": "좋아, 시작! 핸드폰 엎어!"
+     },
+     {
+      "file": "voices/bro/start-2.mp4",
+      "text": "처음 5분만 버텨. 그럼 네가 이긴다."
+     },
+     {
+      "file": "voices/bro/start-3.mp4",
+      "text": "좋아! 지금 이 순간이 제일 멋있다!"
+     },
+     {
+      "file": "voices/bro/start-4.mp4",
+      "text": "시작했으면 반은 한 거다. 가자!"
+     },
+     {
+      "file": "voices/bro/start-5.mp4",
+      "text": "집중! 세상은 잠깐 꺼둬!"
+     },
+     {
+      "file": "voices/bro/start-6.mp4",
+      "text": "타이머 돌아간다. 딴생각 금지!"
+     }
+    ],
+    "nudge": [
+     {
+      "file": "voices/bro/nudge-1.mp4",
+      "text": "딴짓하냐? 눈 돌리지 마."
+     },
+     {
+      "file": "voices/bro/nudge-2.mp4",
+      "text": "지금 포기하면 안 한 거랑 똑같다."
+     },
+     {
+      "file": "voices/bro/nudge-3.mp4",
+      "text": "어깨 펴! 자세 무너지면 집중도 무너진다."
+     },
+     {
+      "file": "voices/bro/nudge-4.mp4",
+      "text": "숨 한 번 쉬고, 다시 집중."
+     },
+     {
+      "file": "voices/bro/nudge-5.mp4",
+      "text": "잘 버티고 있다. 이대로만 가."
+     },
+     {
+      "file": "voices/bro/nudge-6.mp4",
+      "text": "지금 힘든 거, 그게 성장하는 소리다."
+     }
+    ],
+    "leave": [
+     {
+      "file": "voices/bro/leave-1.mp4",
+      "text": "어디 가!! 하다 말고 어딜 가!"
+     },
+     {
+      "file": "voices/bro/leave-2.mp4",
+      "text": "야!! 다 보인다! 들어와!"
+     },
+     {
+      "file": "voices/bro/leave-3.mp4",
+      "text": "거기 서!! 어디로 튀냐!"
+     },
+     {
+      "file": "voices/bro/leave-4.mp4",
+      "text": "도망치면 끝까지 쫓아간다!"
+     },
+     {
+      "file": "voices/bro/leave-5.mp4",
+      "text": "핸드폰 보러 갔지? 다 안다!"
+     },
+     {
+      "file": "voices/bro/leave-6.mp4",
+      "text": "탈주는 범죄다! 당장 복귀!"
+     }
+    ],
+    "back": [
+     {
+      "file": "voices/bro/back-1.mp4",
+      "text": "돌아왔냐. 다음엔 없다. 집중해."
+     },
+     {
+      "file": "voices/bro/back-2.mp4",
+      "text": "변명 듣기 싫다. 바로 시작해."
+     },
+     {
+      "file": "voices/bro/back-3.mp4",
+      "text": "그래, 돌아왔으면 됐다. 다시 간다."
+     },
+     {
+      "file": "voices/bro/back-4.mp4",
+      "text": "한 번은 봐준다. 두 번은 없다."
+     },
+     {
+      "file": "voices/bro/back-5.mp4",
+      "text": "자, 아무 일 없었던 것처럼 집중."
+     },
+     {
+      "file": "voices/bro/back-6.mp4",
+      "text": "왔냐? 이번엔 끝까지 붙어 있어라."
+     }
+    ],
+    "done": [
+     {
+      "file": "voices/bro/done-1.mp4",
+      "text": "봐, 할 수 있잖아! 오늘 네가 이겼다!"
+     },
+     {
+      "file": "voices/bro/done-2.mp4",
+      "text": "좋아!! 이게 네 실력이다!"
+     },
+     {
+      "file": "voices/bro/done-3.mp4",
+      "text": "솔직히 좀 멋있었다. 자랑해도 된다."
+     },
+     {
+      "file": "voices/bro/done-4.mp4",
+      "text": "이게 바로 잡도리의 맛이다!"
+     },
+     {
+      "file": "voices/bro/done-5.mp4",
+      "text": "오늘 너, 어제의 너를 이겼다!"
+     },
+     {
+      "file": "voices/bro/done-6.mp4",
+      "text": "박수 쳐라! 네가 해낸 거다!"
+     }
+    ],
+    "quit": [
+     {
+      "file": "voices/bro/quit-1.mp4",
+      "text": "포기? 내일 다시 해. 이건 연습이다."
+     },
+     {
+      "file": "voices/bro/quit-2.mp4",
+      "text": "오늘은 여기까지. 이 기분이 내일 연료다."
+     },
+     {
+      "file": "voices/bro/quit-3.mp4",
+      "text": "괜찮다. 넘어지는 건 실패가 아니다."
+     },
+     {
+      "file": "voices/bro/quit-4.mp4",
+      "text": "오늘은 여기까지. 대신 내일은 끝까지다."
+     },
+     {
+      "file": "voices/bro/quit-5.mp4",
+      "text": "포기한 게 아니라 숨 고르는 거다."
+     },
+     {
+      "file": "voices/bro/quit-6.mp4",
+      "text": "다음엔 1분만 더 버텨봐라."
+     }
+    ],
+    "idle": [
+     {
+      "file": "voices/bro/idle-1.mp4",
+      "text": "한참 놀았지? 하나라도 시작해."
+     },
+     {
+      "file": "voices/bro/idle-2.mp4",
+      "text": "지금 뭐 하냐. 핸드폰 내려놔."
+     },
+     {
+      "file": "voices/bro/idle-3.mp4",
+      "text": "멍때리는 것도 실력이냐? 일어나라."
+     },
+     {
+      "file": "voices/bro/idle-4.mp4",
+      "text": "시간 간다. 지금도 간다."
+     },
+     {
+      "file": "voices/bro/idle-5.mp4",
+      "text": "손가락만 움직이지 말고 몸을 움직여."
+     },
+     {
+      "file": "voices/bro/idle-6.mp4",
+      "text": "남들 달릴 때 넌 뭐 하냐."
+     }
+    ],
+    "tempt": [
+     {
+      "file": "voices/bro/tempt-1.mp4",
+      "text": "그거 보는 순간 끝이다. 내가 치웠다."
+     },
+     {
+      "file": "voices/bro/tempt-2.mp4",
+      "text": "눈 돌리지 마! 저건 네 적이다!"
+     },
+     {
+      "file": "voices/bro/tempt-3.mp4",
+      "text": "유혹은 1초, 후회는 하루다."
+     },
+     {
+      "file": "voices/bro/tempt-4.mp4",
+      "text": "그건 나중에 봐도 안 사라진다."
+     },
+     {
+      "file": "voices/bro/tempt-5.mp4",
+      "text": "알림 끈다. 지금은 너랑 나만 있다."
+     },
+     {
+      "file": "voices/bro/tempt-6.mp4",
+      "text": "치킨 생각 접어. 끝나고 먹어."
+     }
+    ],
+    "target": [
+     {
+      "file": "voices/bro/target-1.mp4",
+      "text": "목표 채웠다!! 네 한계 깼다!"
+     },
+     {
+      "file": "voices/bro/target-2.mp4",
+      "text": "봐라, 되잖아! 더 가도 된다!"
+     },
+     {
+      "file": "voices/bro/target-3.mp4",
+      "text": "목표 찍었다! 여기서 더 가면 전설이다!"
+     },
+     {
+      "file": "voices/bro/target-4.mp4",
+      "text": "해냈다! 오늘 기록 갱신이다!"
+     },
+     {
+      "file": "voices/bro/target-5.mp4",
+      "text": "봐라, 넌 하면 되는 놈이다!"
+     },
+     {
+      "file": "voices/bro/target-6.mp4",
+      "text": "목표 달성! 오늘은 자랑해도 된다!"
+     }
+    ],
+    "morning": [
+     {
+      "file": "voices/bro/morning-1.mp4",
+      "text": "기상!! 어제보다 나은 하루 간다!"
+     },
+     {
+      "file": "voices/bro/morning-2.mp4",
+      "text": "눈 떴으면 반은 한 거다. 움직여."
+     },
+     {
+      "file": "voices/bro/morning-3.mp4",
+      "text": "일어났으면 물부터 마셔라. 시작이다."
+     },
+     {
+      "file": "voices/bro/morning-4.mp4",
+      "text": "오늘 하루, 내가 지켜본다."
+     },
+     {
+      "file": "voices/bro/morning-5.mp4",
+      "text": "아침에 이기는 놈이 하루를 이긴다."
+     },
+     {
+      "file": "voices/bro/morning-6.mp4",
+      "text": "이불 개라. 그게 첫 번째 승리다."
+     }
+    ],
+    "night": [
+     {
+      "file": "voices/bro/night-1.mp4",
+      "text": "수고했다. 진심이다. 자라."
+     },
+     {
+      "file": "voices/bro/night-2.mp4",
+      "text": "하루 끝. 내일 또 잡도리한다."
+     },
+     {
+      "file": "voices/bro/night-3.mp4",
+      "text": "오늘 잘 버텼다. 푹 자라."
+     },
+     {
+      "file": "voices/bro/night-4.mp4",
+      "text": "내일도 이 시간에 보자."
+     },
+     {
+      "file": "voices/bro/night-5.mp4",
+      "text": "잠도 실력이다. 일찍 자라."
+     },
+     {
+      "file": "voices/bro/night-6.mp4",
+      "text": "오늘 한 거, 내일은 더 한다. 잘 자라."
+     }
+    ]
+   }
+  },
+  "noona": {
+   "voice": "다은",
+   "clips": {
+    "hello": [
+     {
+      "file": "voices/noona/hello-1.mp4",
+      "text": "안녕~ 오늘부터 누나가 챙겨줄게."
+     },
+     {
+      "file": "voices/noona/hello-2.mp4",
+      "text": "왔어? 오늘 뭐 할 건지 말해줘~"
+     },
+     {
+      "file": "voices/noona/hello-3.mp4",
+      "text": "오늘도 와줬네~ 누나 기분 좋다."
+     },
+     {
+      "file": "voices/noona/hello-4.mp4",
+      "text": "자기 얼굴 보니까 힘 난다. 오늘 뭐 할까?"
+     },
+     {
+      "file": "voices/noona/hello-5.mp4",
+      "text": "누나랑 오늘 하나만 해보자, 응?"
+     },
+     {
+      "file": "voices/noona/hello-6.mp4",
+      "text": "보고 싶었어~ 오늘도 같이 하자."
+     }
+    ],
+    "add": [
+     {
+      "file": "voices/noona/add-1.mp4",
+      "text": "우와, 멋진 계획이다. 누나가 꼭 불러줄게."
+     },
+     {
+      "file": "voices/noona/add-2.mp4",
+      "text": "좋아~ 다 하면 엄청 칭찬해 줄게."
+     },
+     {
+      "file": "voices/noona/add-3.mp4",
+      "text": "이거 하면 진짜 멋있겠다~"
+     },
+     {
+      "file": "voices/noona/add-4.mp4",
+      "text": "누나가 꼭 기억할게. 약속!"
+     },
+     {
+      "file": "voices/noona/add-5.mp4",
+      "text": "좋아~ 이번엔 끝까지 가보자."
+     },
+     {
+      "file": "voices/noona/add-6.mp4",
+      "text": "적었으니까 반은 한 거야. 진짜로."
+     }
+    ],
+    "soon": [
+     {
+      "file": "voices/noona/soon-1.mp4",
+      "text": "10분 뒤에 시작이야~ 미리 준비하자."
+     },
+     {
+      "file": "voices/noona/soon-2.mp4",
+      "text": "곧이야. 누나랑 같이 하자, 응?"
+     },
+     {
+      "file": "voices/noona/soon-3.mp4",
+      "text": "곧이야~ 물 한 잔 마시고 앉아 있자."
+     },
+     {
+      "file": "voices/noona/soon-4.mp4",
+      "text": "10분 뒤에 누나가 부를게. 준비됐지?"
+     },
+     {
+      "file": "voices/noona/soon-5.mp4",
+      "text": "슬슬 준비하자~ 누나 기다릴게."
+     },
+     {
+      "file": "voices/noona/soon-6.mp4",
+      "text": "곧 시작이야. 오늘도 잘할 수 있어."
+     }
+    ],
+    "alarm": [
+     {
+      "file": "voices/noona/alarm-1.mp4",
+      "text": "일어나~ 할 시간이야. 누나가 기다려."
+     },
+     {
+      "file": "voices/noona/alarm-2.mp4",
+      "text": "자기야, 시작만 해봐. 나머진 누나가 응원할게."
+     },
+     {
+      "file": "voices/noona/alarm-3.mp4",
+      "text": "일어나야지~ 오늘도 같이 하자!"
+     },
+     {
+      "file": "voices/noona/alarm-4.mp4",
+      "text": "일어나~ 오늘도 멋진 하루 만들자!"
+     },
+     {
+      "file": "voices/noona/alarm-5.mp4",
+      "text": "자기야~ 지금 시작하면 누나가 칭찬해 줄게."
+     },
+     {
+      "file": "voices/noona/alarm-6.mp4",
+      "text": "눈 떠봐~ 누나가 옆에 있잖아."
+     }
+    ],
+    "snooze": [
+     {
+      "file": "voices/noona/snooze-1.mp4",
+      "text": "5분만이야~ 꼭 일어나기."
+     },
+     {
+      "file": "voices/noona/snooze-2.mp4",
+      "text": "알았어, 5분. 누나 다시 올게."
+     },
+     {
+      "file": "voices/noona/snooze-3.mp4",
+      "text": "조금만 더 자고 싶구나~ 5분만이야."
+     },
+     {
+      "file": "voices/noona/snooze-4.mp4",
+      "text": "알았어~ 대신 다음엔 바로 일어나기."
+     },
+     {
+      "file": "voices/noona/snooze-5.mp4",
+      "text": "누나 5분 뒤에 또 온다~"
+     },
+     {
+      "file": "voices/noona/snooze-6.mp4",
+      "text": "5분 뒤엔 꼭 일어나야 해, 약속~"
+     }
+    ],
+    "skip": [
+     {
+      "file": "voices/noona/skip-1.mp4",
+      "text": "오늘은 쉬고 싶구나… 내일은 꼭 하자."
+     },
+     {
+      "file": "voices/noona/skip-2.mp4",
+      "text": "괜찮아. 대신 내일 누나랑 약속."
+     },
+     {
+      "file": "voices/noona/skip-3.mp4",
+      "text": "오늘은 쉬어도 돼. 내일 누나랑 꼭 하자."
+     },
+     {
+      "file": "voices/noona/skip-4.mp4",
+      "text": "괜찮아~ 쉬는 것도 중요해."
+     },
+     {
+      "file": "voices/noona/skip-5.mp4",
+      "text": "조금 아쉽지만… 내일 기대할게."
+     },
+     {
+      "file": "voices/noona/skip-6.mp4",
+      "text": "내일은 누나가 더 일찍 깨워줄게."
+     }
+    ],
+    "start": [
+     {
+      "file": "voices/noona/start-1.mp4",
+      "text": "시작! 누나가 옆에 있을게."
+     },
+     {
+      "file": "voices/noona/start-2.mp4",
+      "text": "가보자~ 천천히, 근데 멈추진 말고."
+     },
+     {
+      "file": "voices/noona/start-3.mp4",
+      "text": "좋아~ 지금 집중하는 자기 너무 멋있어."
+     },
+     {
+      "file": "voices/noona/start-4.mp4",
+      "text": "시작했다! 누나가 응원할게~"
+     },
+     {
+      "file": "voices/noona/start-5.mp4",
+      "text": "천천히 해도 돼. 멈추지만 말자."
+     },
+     {
+      "file": "voices/noona/start-6.mp4",
+      "text": "같이 가보자~ 누나 여기 있어."
+     }
+    ],
+    "nudge": [
+     {
+      "file": "voices/noona/nudge-1.mp4",
+      "text": "잘하고 있어, 진짜로. 조금만 더."
+     },
+     {
+      "file": "voices/noona/nudge-2.mp4",
+      "text": "힘들지? 물 한 모금 마시고 이어가자."
+     },
+     {
+      "file": "voices/noona/nudge-3.mp4",
+      "text": "지금 페이스 딱 좋아. 누나 믿어."
+     },
+     {
+      "file": "voices/noona/nudge-4.mp4",
+      "text": "조금만 더 힘내~ 거의 다 왔어."
+     },
+     {
+      "file": "voices/noona/nudge-5.mp4",
+      "text": "어깨 한 번 쭉 펴고~ 다시 집중."
+     },
+     {
+      "file": "voices/noona/nudge-6.mp4",
+      "text": "자기 진짜 잘하고 있어. 누나가 다 봐."
+     }
+    ],
+    "leave": [
+     {
+      "file": "voices/noona/leave-1.mp4",
+      "text": "어디 가~ 누나 혼자 두지 마."
+     },
+     {
+      "file": "voices/noona/leave-2.mp4",
+      "text": "도망가는 거 아니지? 얼른 와."
+     },
+     {
+      "file": "voices/noona/leave-3.mp4",
+      "text": "어디 가~ 누나 심심해."
+     },
+     {
+      "file": "voices/noona/leave-4.mp4",
+      "text": "잠깐! 아직 안 끝났어~"
+     },
+     {
+      "file": "voices/noona/leave-5.mp4",
+      "text": "누나 두고 가면 서운해~"
+     },
+     {
+      "file": "voices/noona/leave-6.mp4",
+      "text": "어머, 어디 가? 빨리 돌아와~"
+     }
+    ],
+    "back": [
+     {
+      "file": "voices/noona/back-1.mp4",
+      "text": "돌아왔다! 이번엔 끝까지 같이 가자."
+     },
+     {
+      "file": "voices/noona/back-2.mp4",
+      "text": "왔어? 조금 서운했어~ 다시 하자."
+     },
+     {
+      "file": "voices/noona/back-3.mp4",
+      "text": "왔다~ 누나 기다렸어."
+     },
+     {
+      "file": "voices/noona/back-4.mp4",
+      "text": "다시 왔네? 이번엔 끝까지 가자~"
+     },
+     {
+      "file": "voices/noona/back-5.mp4",
+      "text": "괜찮아, 다시 시작하면 돼."
+     },
+     {
+      "file": "voices/noona/back-6.mp4",
+      "text": "돌아와 줘서 고마워~ 집중하자."
+     }
+    ],
+    "done": [
+     {
+      "file": "voices/noona/done-1.mp4",
+      "text": "우와, 진짜 대단해! 누나가 너무 자랑스러워."
+     },
+     {
+      "file": "voices/noona/done-2.mp4",
+      "text": "끝났다! 오늘 자기 최고야!"
+     },
+     {
+      "file": "voices/noona/done-3.mp4",
+      "text": "봐, 할 수 있잖아. 처음부터 믿었어."
+     },
+     {
+      "file": "voices/noona/done-4.mp4",
+      "text": "최고야! 누나가 꼭 안아줄게~"
+     },
+     {
+      "file": "voices/noona/done-5.mp4",
+      "text": "와~ 오늘 진짜 멋있었어!"
+     },
+     {
+      "file": "voices/noona/done-6.mp4",
+      "text": "해냈다! 누나 너무 행복해~"
+     }
+    ],
+    "quit": [
+     {
+      "file": "voices/noona/quit-1.mp4",
+      "text": "괜찮아, 여기까지 한 것도 대단해."
+     },
+     {
+      "file": "voices/noona/quit-2.mp4",
+      "text": "자책하지 마. 내일 누나랑 다시 하자."
+     },
+     {
+      "file": "voices/noona/quit-3.mp4",
+      "text": "괜찮아~ 오늘은 여기까지만 해도 돼."
+     },
+     {
+      "file": "voices/noona/quit-4.mp4",
+      "text": "충분히 잘했어. 내일 또 하자."
+     },
+     {
+      "file": "voices/noona/quit-5.mp4",
+      "text": "누나는 자기가 시작한 것만으로도 좋아."
+     },
+     {
+      "file": "voices/noona/quit-6.mp4",
+      "text": "힘들었지? 푹 쉬어~"
+     }
+    ],
+    "idle": [
+     {
+      "file": "voices/noona/idle-1.mp4",
+      "text": "심심해? 하나만 같이 해볼까?"
+     },
+     {
+      "file": "voices/noona/idle-2.mp4",
+      "text": "누나는 움직이는 자기가 더 좋더라~"
+     },
+     {
+      "file": "voices/noona/idle-3.mp4",
+      "text": "자기야~ 뭐 해? 하나만 같이 하자."
+     },
+     {
+      "file": "voices/noona/idle-4.mp4",
+      "text": "누나 심심해~ 같이 하나 해볼까?"
+     },
+     {
+      "file": "voices/noona/idle-5.mp4",
+      "text": "잠깐 쉬었으니까 이제 다시 해볼까?"
+     },
+     {
+      "file": "voices/noona/idle-6.mp4",
+      "text": "누나가 기다리고 있어~"
+     }
+    ],
+    "tempt": [
+     {
+      "file": "voices/noona/tempt-1.mp4",
+      "text": "어머, 이런 거 보면 안 돼~ 누나가 치웠어."
+     },
+     {
+      "file": "voices/noona/tempt-2.mp4",
+      "text": "끝나고 같이 보자. 지금은 집중!"
+     },
+     {
+      "file": "voices/noona/tempt-3.mp4",
+      "text": "그거 나중에 누나랑 같이 보자~"
+     },
+     {
+      "file": "voices/noona/tempt-4.mp4",
+      "text": "지금은 집중! 알림은 누나가 막았어."
+     },
+     {
+      "file": "voices/noona/tempt-5.mp4",
+      "text": "유혹에 지면 안 돼~"
+     },
+     {
+      "file": "voices/noona/tempt-6.mp4",
+      "text": "에이~ 그거 보면 누나 삐진다."
+     }
+    ],
+    "target": [
+     {
+      "file": "voices/noona/target-1.mp4",
+      "text": "목표 다 채웠어! 진짜 멋있다!"
+     },
+     {
+      "file": "voices/noona/target-2.mp4",
+      "text": "해냈다! 누나가 꼭 안아주고 싶어."
+     },
+     {
+      "file": "voices/noona/target-3.mp4",
+      "text": "목표 달성! 자기 진짜 대단해~"
+     },
+     {
+      "file": "voices/noona/target-4.mp4",
+      "text": "와~ 끝까지 했네! 누나 감동했어."
+     },
+     {
+      "file": "voices/noona/target-5.mp4",
+      "text": "역시 자기야~ 해낼 줄 알았어."
+     },
+     {
+      "file": "voices/noona/target-6.mp4",
+      "text": "축하해! 오늘 최고의 하루다~"
+     }
+    ],
+    "morning": [
+     {
+      "file": "voices/noona/morning-1.mp4",
+      "text": "좋은 아침~ 오늘도 누나랑 하나씩 하자."
+     },
+     {
+      "file": "voices/noona/morning-2.mp4",
+      "text": "잘 잤어? 물 한 잔 마시고 시작하자~"
+     },
+     {
+      "file": "voices/noona/morning-3.mp4",
+      "text": "일어났어? 오늘도 누나가 응원할게~"
+     },
+     {
+      "file": "voices/noona/morning-4.mp4",
+      "text": "굿모닝~ 오늘 하루도 같이 가자."
+     },
+     {
+      "file": "voices/noona/morning-5.mp4",
+      "text": "햇살 좋다~ 하나씩 시작해볼까?"
+     },
+     {
+      "file": "voices/noona/morning-6.mp4",
+      "text": "좋은 아침! 누나 보고 싶었지?"
+     }
+    ],
+    "night": [
+     {
+      "file": "voices/noona/night-1.mp4",
+      "text": "오늘 수고 많았어. 푹 자~"
+     },
+     {
+      "file": "voices/noona/night-2.mp4",
+      "text": "잘 자. 내일 아침에 누나가 깨워줄게."
+     },
+     {
+      "file": "voices/noona/night-3.mp4",
+      "text": "오늘 진짜 수고했어. 꿈에서 만나~"
+     },
+     {
+      "file": "voices/noona/night-4.mp4",
+      "text": "잘 자~ 내일 또 같이 하자."
+     },
+     {
+      "file": "voices/noona/night-5.mp4",
+      "text": "오늘도 고마워. 푹 쉬어~"
+     },
+     {
+      "file": "voices/noona/night-6.mp4",
+      "text": "누나가 내일 아침에 꼭 깨워줄게~"
+     }
+    ]
+   }
+  },
+  "mom": {
+   "voice": "연자",
+   "clips": {
+    "hello": [
+     {
+      "file": "voices/mom/hello-1.mp4",
+      "text": "엄마여. 밥은 묵었냐잉? 묵었으믄 할 일 허자."
+     },
+     {
+      "file": "voices/mom/hello-2.mp4",
+      "text": "오늘 뭐 할 거여? 엄마한테 말해봐잉."
+     },
+     {
+      "file": "voices/mom/hello-3.mp4",
+      "text": "아따 왔냐. 엄마 기다렸어잉."
+     },
+     {
+      "file": "voices/mom/hello-4.mp4",
+      "text": "오늘은 뭐 헐 거여? 엄마가 다 챙겨줄랑께."
+     },
+     {
+      "file": "voices/mom/hello-5.mp4",
+      "text": "밥 든든히 묵고 시작허자잉."
+     },
+     {
+      "file": "voices/mom/hello-6.mp4",
+      "text": "우리 새끼 왔는가. 오늘도 해보자잉."
+     }
+    ],
+    "add": [
+     {
+      "file": "voices/mom/add-1.mp4",
+      "text": "잘 생각했당께. 엄마가 시간 되믄 깨워줄랑께."
+     },
+     {
+      "file": "voices/mom/add-2.mp4",
+      "text": "적었으믄 하는 거여. 엄마는 믿어잉."
+     },
+     {
+      "file": "voices/mom/add-3.mp4",
+      "text": "그려, 잘 적었다. 이제 허기만 하믄 돼야."
+     },
+     {
+      "file": "voices/mom/add-4.mp4",
+      "text": "엄마가 이거 꼭 기억헐랑께."
+     },
+     {
+      "file": "voices/mom/add-5.mp4",
+      "text": "아따 기특허다. 꼭 해야 쓴다잉."
+     },
+     {
+      "file": "voices/mom/add-6.mp4",
+      "text": "적었으믄 지켜야제. 엄마랑 약속이여."
+     }
+    ],
+    "soon": [
+     {
+      "file": "voices/mom/soon-1.mp4",
+      "text": "10분 남었다잉. 화장실 댕겨오고 앉어."
+     },
+     {
+      "file": "voices/mom/soon-2.mp4",
+      "text": "곧 시작이여. 엄마가 미리 말해주는 거여."
+     },
+     {
+      "file": "voices/mom/soon-3.mp4",
+      "text": "쪼까 있으믄 시작이여. 준비허자잉."
+     },
+     {
+      "file": "voices/mom/soon-4.mp4",
+      "text": "10분 남었응께 물 한 잔 마셔."
+     },
+     {
+      "file": "voices/mom/soon-5.mp4",
+      "text": "핸드폰 내려놓고 앉아 있어잉."
+     },
+     {
+      "file": "voices/mom/soon-6.mp4",
+      "text": "곧이여. 엄마가 또 부를랑께."
+     }
+    ],
+    "alarm": [
+     {
+      "file": "voices/mom/alarm-1.mp4",
+      "text": "일어나랑께!! 엄마가 몇 번을 불러야 쓰겄냐!"
+     },
+     {
+      "file": "voices/mom/alarm-2.mp4",
+      "text": "아따 얘! 일어나! 지금 안 허믄 밤에 후회헌다!"
+     },
+     {
+      "file": "voices/mom/alarm-3.mp4",
+      "text": "밥 차려놨응께 묵고 바로 혀!"
+     },
+     {
+      "file": "voices/mom/alarm-4.mp4",
+      "text": "아따 아직도 자냐! 해가 중천이여!"
+     },
+     {
+      "file": "voices/mom/alarm-5.mp4",
+      "text": "일어나랑께! 엄마 목 쉬겄다!"
+     },
+     {
+      "file": "voices/mom/alarm-6.mp4",
+      "text": "얼른 일어나서 시작혀! 엄마 기다린다잉!"
+     }
+    ],
+    "snooze": [
+     {
+      "file": "voices/mom/snooze-1.mp4",
+      "text": "5분? 그려 5분. 엄마 또 온다잉."
+     },
+     {
+      "file": "voices/mom/snooze-2.mp4",
+      "text": "아이고 징하다. 5분만이여. 그담엔 이불 걷어분다."
+     },
+     {
+      "file": "voices/mom/snooze-3.mp4",
+      "text": "또 5분이여? 너는 어릴 때부터 그랬어잉."
+     },
+     {
+      "file": "voices/mom/snooze-4.mp4",
+      "text": "그려, 딱 5분만이여. 엄마 다시 온다."
+     },
+     {
+      "file": "voices/mom/snooze-5.mp4",
+      "text": "5분 지나믄 이불 걷어분다잉."
+     },
+     {
+      "file": "voices/mom/snooze-6.mp4",
+      "text": "아이고, 알았다잉. 5분이여 5분."
+     }
+    ],
+    "skip": [
+     {
+      "file": "voices/mom/skip-1.mp4",
+      "text": "안 허믄 누가 손해여. 너여. 내일은 혀."
+     },
+     {
+      "file": "voices/mom/skip-2.mp4",
+      "text": "그려, 쉬어라. 대신 밥은 꼭 묵고."
+     },
+     {
+      "file": "voices/mom/skip-3.mp4",
+      "text": "오늘은 쉬어라. 대신 내일은 꼭 혀."
+     },
+     {
+      "file": "voices/mom/skip-4.mp4",
+      "text": "그려, 몸이 먼저제. 내일 허자잉."
+     },
+     {
+      "file": "voices/mom/skip-5.mp4",
+      "text": "엄마는 서운허다잉. 내일은 해야 써."
+     },
+     {
+      "file": "voices/mom/skip-6.mp4",
+      "text": "쉬는 것도 좋은디, 내일은 안 봐준다잉."
+     }
+    ],
+    "start": [
+     {
+      "file": "voices/mom/start-1.mp4",
+      "text": "그려, 시작했구마잉. 물 한 잔 옆에 두고 혀."
+     },
+     {
+      "file": "voices/mom/start-2.mp4",
+      "text": "잘했다잉. 엄마가 조용히 할랑께 집중혀."
+     },
+     {
+      "file": "voices/mom/start-3.mp4",
+      "text": "그려 그려, 시작했구마. 엄마가 지켜본다잉."
+     },
+     {
+      "file": "voices/mom/start-4.mp4",
+      "text": "잘한다 우리 새끼. 집중혀."
+     },
+     {
+      "file": "voices/mom/start-5.mp4",
+      "text": "물 떠다 놨응께 마시면서 혀."
+     },
+     {
+      "file": "voices/mom/start-6.mp4",
+      "text": "시작이 반이여. 쭉 가보자잉."
+     }
+    ],
+    "nudge": [
+     {
+      "file": "voices/mom/nudge-1.mp4",
+      "text": "허리 좀 펴라잉. 자세 나쁘믄 엄마가 다 보여."
+     },
+     {
+      "file": "voices/mom/nudge-2.mp4",
+      "text": "잘하고 있당께. 끝나믄 맛난 거 묵자."
+     },
+     {
+      "file": "voices/mom/nudge-3.mp4",
+      "text": "눈 좀 깜빡이고. 쪼까만 더 혀."
+     },
+     {
+      "file": "voices/mom/nudge-4.mp4",
+      "text": "딴짓허지 말고잉. 엄마 다 보여."
+     },
+     {
+      "file": "voices/mom/nudge-5.mp4",
+      "text": "쪼까만 더 허믄 돼야. 힘내."
+     },
+     {
+      "file": "voices/mom/nudge-6.mp4",
+      "text": "아따 잘하네. 그대로 쭉 혀."
+     }
+    ],
+    "leave": [
+     {
+      "file": "voices/mom/leave-1.mp4",
+      "text": "어디 가냐!! 핸드폰 볼라고 가는 거믄 엄마가 다 안다잉!"
+     },
+     {
+      "file": "voices/mom/leave-2.mp4",
+      "text": "아따 얘! 돌아와! 엄마 다 본당께!"
+     },
+     {
+      "file": "voices/mom/leave-3.mp4",
+      "text": "워메! 어디 가냐! 거기 서!"
+     },
+     {
+      "file": "voices/mom/leave-4.mp4",
+      "text": "또 핸드폰이여? 엄마가 압수헌다잉!"
+     },
+     {
+      "file": "voices/mom/leave-5.mp4",
+      "text": "아따 얘가! 하다 말고 어딜 가!"
+     },
+     {
+      "file": "voices/mom/leave-6.mp4",
+      "text": "엄마 눈 피할 생각 말어!"
+     }
+    ],
+    "back": [
+     {
+      "file": "voices/mom/back-1.mp4",
+      "text": "왔냐? 됐다. 하던 거 마저 혀."
+     },
+     {
+      "file": "voices/mom/back-2.mp4",
+      "text": "엄마가 봐주는 것도 한계가 있당께. 집중혀!"
+     },
+     {
+      "file": "voices/mom/back-3.mp4",
+      "text": "왔냐? 엄마 화 쪼까 났다잉. 집중혀."
+     },
+     {
+      "file": "voices/mom/back-4.mp4",
+      "text": "그려, 돌아왔으믄 됐다. 마저 혀."
+     },
+     {
+      "file": "voices/mom/back-5.mp4",
+      "text": "한 번만 더 나가믄 엄마 진짜 화낸다잉."
+     },
+     {
+      "file": "voices/mom/back-6.mp4",
+      "text": "아이고, 얼른 앉아라잉."
+     }
+    ],
+    "done": [
+     {
+      "file": "voices/mom/done-1.mp4",
+      "text": "아이고 우리 새끼!! 엄마가 동네방네 자랑허고 다닐란다!"
+     },
+     {
+      "file": "voices/mom/done-2.mp4",
+      "text": "장하다 장해! 오늘 저녁은 니 좋아하는 거 해줄랑께!"
+     },
+     {
+      "file": "voices/mom/done-3.mp4",
+      "text": "봐라, 엄마 말 들응께 되잖여."
+     },
+     {
+      "file": "voices/mom/done-4.mp4",
+      "text": "워메 장한 거! 엄마가 맛난 거 해줄랑께!"
+     },
+     {
+      "file": "voices/mom/done-5.mp4",
+      "text": "다 했냐? 아이고 우리 새끼 최고여!"
+     },
+     {
+      "file": "voices/mom/done-6.mp4",
+      "text": "동네 사람들! 우리 새끼 다 했대요!"
+     }
+    ],
+    "quit": [
+     {
+      "file": "voices/mom/quit-1.mp4",
+      "text": "괜찮어. 여까지 한 것도 한 거여. 밥 묵고 쉬어."
+     },
+     {
+      "file": "voices/mom/quit-2.mp4",
+      "text": "오늘은 여기까지 허자. 엄마가 내일 또 깨울랑께."
+     },
+     {
+      "file": "voices/mom/quit-3.mp4",
+      "text": "괜찮다잉. 쉬었다 또 허믄 돼야."
+     },
+     {
+      "file": "voices/mom/quit-4.mp4",
+      "text": "엄마는 니가 아픈 게 더 싫어. 쉬어라."
+     },
+     {
+      "file": "voices/mom/quit-5.mp4",
+      "text": "여까지 한 것도 장허다잉."
+     },
+     {
+      "file": "voices/mom/quit-6.mp4",
+      "text": "내일은 엄마가 더 일찍 깨울랑께."
+     }
+    ],
+    "idle": [
+     {
+      "file": "voices/mom/idle-1.mp4",
+      "text": "뭐 허냐? 한참 조용허네. 할 거 해야제."
+     },
+     {
+      "file": "voices/mom/idle-2.mp4",
+      "text": "핸드폰만 보고 있는 거 아니제잉?"
+     },
+     {
+      "file": "voices/mom/idle-3.mp4",
+      "text": "뭐 허고 있냐? 엄마 다 보고 있다잉."
+     },
+     {
+      "file": "voices/mom/idle-4.mp4",
+      "text": "놀기만 허믄 쓰겄냐. 하나라도 혀."
+     },
+     {
+      "file": "voices/mom/idle-5.mp4",
+      "text": "아따 오래 쉬었다잉. 이제 시작허자."
+     },
+     {
+      "file": "voices/mom/idle-6.mp4",
+      "text": "핸드폰 그만 보고 할 일 혀라잉."
+     }
+    ],
+    "tempt": [
+     {
+      "file": "voices/mom/tempt-1.mp4",
+      "text": "아따 얘! 이거 볼라고 했제? 엄마가 치워부렀다!"
+     },
+     {
+      "file": "voices/mom/tempt-2.mp4",
+      "text": "치킨은 끝나고 엄마가 시켜줄랑께."
+     },
+     {
+      "file": "voices/mom/tempt-3.mp4",
+      "text": "그거 보지 마라잉. 엄마가 치워부렀다."
+     },
+     {
+      "file": "voices/mom/tempt-4.mp4",
+      "text": "유튜브는 이따가 봐라잉."
+     },
+     {
+      "file": "voices/mom/tempt-5.mp4",
+      "text": "아따 정신 똑바로 차려라잉."
+     },
+     {
+      "file": "voices/mom/tempt-6.mp4",
+      "text": "끝나고 엄마가 치킨 시켜줄랑께 참어."
+     }
+    ],
+    "target": [
+     {
+      "file": "voices/mom/target-1.mp4",
+      "text": "다 했냐?! 아이고 기특허다잉!"
+     },
+     {
+      "file": "voices/mom/target-2.mp4",
+      "text": "목표 채웠네! 오늘 엄마가 한턱 쏜다잉!"
+     },
+     {
+      "file": "voices/mom/target-3.mp4",
+      "text": "목표 다 채웠냐! 엄마가 자랑헐란다!"
+     },
+     {
+      "file": "voices/mom/target-4.mp4",
+      "text": "아이고 기특허다잉. 오늘 고생했어."
+     },
+     {
+      "file": "voices/mom/target-5.mp4",
+      "text": "워메, 끝까지 했구마잉!"
+     },
+     {
+      "file": "voices/mom/target-6.mp4",
+      "text": "역시 우리 새끼여. 엄마는 알았어잉."
+     }
+    ],
+    "morning": [
+     {
+      "file": "voices/mom/morning-1.mp4",
+      "text": "일어나랑께! 아침이여! 이불 개고 시작혀!"
+     },
+     {
+      "file": "voices/mom/morning-2.mp4",
+      "text": "좋은 아침이여. 밥 묵고 하나부터 허자."
+     },
+     {
+      "file": "voices/mom/morning-3.mp4",
+      "text": "일어나랑께! 아침밥 다 식는다잉!"
+     },
+     {
+      "file": "voices/mom/morning-4.mp4",
+      "text": "좋은 아침이여. 오늘도 힘내자잉."
+     },
+     {
+      "file": "voices/mom/morning-5.mp4",
+      "text": "세수허고 물 한 잔 마시고 시작혀."
+     },
+     {
+      "file": "voices/mom/morning-6.mp4",
+      "text": "해 떴다잉. 이불 개고 나와라."
+     }
+    ],
+    "night": [
+     {
+      "file": "voices/mom/night-1.mp4",
+      "text": "오늘 욕봤다잉. 핸드폰 그만 보고 자."
+     },
+     {
+      "file": "voices/mom/night-2.mp4",
+      "text": "잘 자라잉. 엄마가 내일 또 깨울랑께."
+     },
+     {
+      "file": "voices/mom/night-3.mp4",
+      "text": "오늘 욕봤다잉. 푹 자라."
+     },
+     {
+      "file": "voices/mom/night-4.mp4",
+      "text": "엄마가 이불 덮어줄랑께 얼른 자."
+     },
+     {
+      "file": "voices/mom/night-5.mp4",
+      "text": "핸드폰 내려놓고 자라잉."
+     },
+     {
+      "file": "voices/mom/night-6.mp4",
+      "text": "내일도 엄마가 깨울랑께 일찍 자."
+     }
+    ]
+   }
+  },
+  "drill": {
+   "voice": "준기",
+   "clips": {
+    "hello": [
+     {
+      "file": "voices/drill/hello-1.mp4",
+      "text": "조교다! 오늘부터 네 하루는 내가 통제한다!"
+     },
+     {
+      "file": "voices/drill/hello-2.mp4",
+      "text": "훈련병! 오늘 목표 보고!"
+     },
+     {
+      "file": "voices/drill/hello-3.mp4",
+      "text": "훈련병! 오늘도 정신 무장 확인!"
+     },
+     {
+      "file": "voices/drill/hello-4.mp4",
+      "text": "조교 등장! 오늘 임무 보고!"
+     },
+     {
+      "file": "voices/drill/hello-5.mp4",
+      "text": "나태함은 적이다! 오늘 목표 입력!"
+     },
+     {
+      "file": "voices/drill/hello-6.mp4",
+      "text": "자세 바로! 오늘 훈련 시작!"
+     }
+    ],
+    "add": [
+     {
+      "file": "voices/drill/add-1.mp4",
+      "text": "접수! 미이행 시 얼차려다!"
+     },
+     {
+      "file": "voices/drill/add-2.mp4",
+      "text": "목표 등록 완료! 말로만 하는 훈련병은 필요 없다!"
+     },
+     {
+      "file": "voices/drill/add-3.mp4",
+      "text": "임무 하달 완료! 반드시 완수한다!"
+     },
+     {
+      "file": "voices/drill/add-4.mp4",
+      "text": "목표 접수! 철회는 없다!"
+     },
+     {
+      "file": "voices/drill/add-5.mp4",
+      "text": "좋다! 그 목표, 조교가 기억한다!"
+     },
+     {
+      "file": "voices/drill/add-6.mp4",
+      "text": "등록 완료! 이제 실천만 남았다!"
+     }
+    ],
+    "soon": [
+     {
+      "file": "voices/drill/soon-1.mp4",
+      "text": "개시 10분 전! 준비 태세!"
+     },
+     {
+      "file": "voices/drill/soon-2.mp4",
+      "text": "10분 후 개시! 대기 위치로!"
+     },
+     {
+      "file": "voices/drill/soon-3.mp4",
+      "text": "10분 후 작전 개시! 장비 점검!"
+     },
+     {
+      "file": "voices/drill/soon-4.mp4",
+      "text": "곧 개시다! 자리에 착석!"
+     },
+     {
+      "file": "voices/drill/soon-5.mp4",
+      "text": "개시 임박! 휴대폰 반납 준비!"
+     },
+     {
+      "file": "voices/drill/soon-6.mp4",
+      "text": "대기! 10분 후 실시!"
+     }
+    ],
+    "alarm": [
+     {
+      "file": "voices/drill/alarm-1.mp4",
+      "text": "기상!! 기상!! 전원 기상!!"
+     },
+     {
+      "file": "voices/drill/alarm-2.mp4",
+      "text": "동작 봐라!! 지금 즉시 실시!!"
+     },
+     {
+      "file": "voices/drill/alarm-3.mp4",
+      "text": "5초 준다!! 5! 4! 3!"
+     },
+     {
+      "file": "voices/drill/alarm-4.mp4",
+      "text": "기상 나팔이다!! 일어나!!"
+     },
+     {
+      "file": "voices/drill/alarm-5.mp4",
+      "text": "훈련병!! 침상에서 즉시 이탈!!"
+     },
+     {
+      "file": "voices/drill/alarm-6.mp4",
+      "text": "작전 개시!! 지금 당장!!"
+     }
+    ],
+    "snooze": [
+     {
+      "file": "voices/drill/snooze-1.mp4",
+      "text": "5분 유예 승인! 그 후 두 배다!"
+     },
+     {
+      "file": "voices/drill/snooze-2.mp4",
+      "text": "조교는 5분을 모른다! 딱 한 번이다!"
+     },
+     {
+      "file": "voices/drill/snooze-3.mp4",
+      "text": "유예 요청 접수! 이번이 마지막이다!"
+     },
+     {
+      "file": "voices/drill/snooze-4.mp4",
+      "text": "5분 후 재기상! 늦으면 얼차려!"
+     },
+     {
+      "file": "voices/drill/snooze-5.mp4",
+      "text": "조교는 기다려준다! 단 한 번!"
+     },
+     {
+      "file": "voices/drill/snooze-6.mp4",
+      "text": "5분! 시계 보고 있다!"
+     }
+    ],
+    "skip": [
+     {
+      "file": "voices/drill/skip-1.mp4",
+      "text": "불참 기록! 내일 두 배로 간다!"
+     },
+     {
+      "file": "voices/drill/skip-2.mp4",
+      "text": "변명은 듣지 않는다! 내일 보자!"
+     },
+     {
+      "file": "voices/drill/skip-3.mp4",
+      "text": "임무 포기 기록! 내일 보충 훈련!"
+     },
+     {
+      "file": "voices/drill/skip-4.mp4",
+      "text": "오늘은 열외다! 내일은 없다!"
+     },
+     {
+      "file": "voices/drill/skip-5.mp4",
+      "text": "패스는 기록에 남는다!"
+     },
+     {
+      "file": "voices/drill/skip-6.mp4",
+      "text": "내일 두 배 훈련이다! 각오해라!"
+     }
+    ],
+    "start": [
+     {
+      "file": "voices/drill/start-1.mp4",
+      "text": "개시!! 휴대폰 뒤집어!! 자리 이탈 금지!!"
+     },
+     {
+      "file": "voices/drill/start-2.mp4",
+      "text": "실시!! 처음 5분이 고비다! 버텨라!"
+     },
+     {
+      "file": "voices/drill/start-3.mp4",
+      "text": "작전 개시!! 집중 사격!!"
+     },
+     {
+      "file": "voices/drill/start-4.mp4",
+      "text": "실시!! 목표만 바라봐라!!"
+     },
+     {
+      "file": "voices/drill/start-5.mp4",
+      "text": "훈련 시작! 딴짓은 탈영이다!"
+     },
+     {
+      "file": "voices/drill/start-6.mp4",
+      "text": "좋다! 그 자세 유지!"
+     }
+    ],
+    "nudge": [
+     {
+      "file": "voices/drill/nudge-1.mp4",
+      "text": "상태 보고! 딴짓하면 조교가 안다!"
+     },
+     {
+      "file": "voices/drill/nudge-2.mp4",
+      "text": "자세 똑바로! 눈 돌리지 마!"
+     },
+     {
+      "file": "voices/drill/nudge-3.mp4",
+      "text": "잘하고 있다! 계속!"
+     },
+     {
+      "file": "voices/drill/nudge-4.mp4",
+      "text": "버텨라! 고지가 눈앞이다!"
+     },
+     {
+      "file": "voices/drill/nudge-5.mp4",
+      "text": "정신 집중! 졸면 안 된다!"
+     },
+     {
+      "file": "voices/drill/nudge-6.mp4",
+      "text": "계속 전진! 멈추지 마라!"
+     }
+    ],
+    "leave": [
+     {
+      "file": "voices/drill/leave-1.mp4",
+      "text": "이탈!! 이탈!! 즉시 복귀!!"
+     },
+     {
+      "file": "voices/drill/leave-2.mp4",
+      "text": "탈영이다!! 훈련병 어디 가나!!"
+     },
+     {
+      "file": "voices/drill/leave-3.mp4",
+      "text": "무단 이탈!! 즉시 복귀!!"
+     },
+     {
+      "file": "voices/drill/leave-4.mp4",
+      "text": "훈련병 실종!! 수색 개시!!"
+     },
+     {
+      "file": "voices/drill/leave-5.mp4",
+      "text": "이탈 감지!! 당장 돌아와라!!"
+     },
+     {
+      "file": "voices/drill/leave-6.mp4",
+      "text": "전방 이탈이다!! 복귀 실시!!"
+     }
+    ],
+    "back": [
+     {
+      "file": "voices/drill/back-1.mp4",
+      "text": "복귀 확인! 다음엔 얼차려다! 재개!"
+     },
+     {
+      "file": "voices/drill/back-2.mp4",
+      "text": "조교는 두 번 말 안 한다! 집중!"
+     },
+     {
+      "file": "voices/drill/back-3.mp4",
+      "text": "복귀 확인! 이탈 기록은 남는다!"
+     },
+     {
+      "file": "voices/drill/back-4.mp4",
+      "text": "돌아왔나! 다시 전투 태세!"
+     },
+     {
+      "file": "voices/drill/back-5.mp4",
+      "text": "한 번은 봐준다! 두 번은 없다!"
+     },
+     {
+      "file": "voices/drill/back-6.mp4",
+      "text": "복귀 완료! 즉시 임무 재개!"
+     }
+    ],
+    "done": [
+     {
+      "file": "voices/drill/done-1.mp4",
+      "text": "임무 완수!! 오늘 합격이다!!"
+     },
+     {
+      "file": "voices/drill/done-2.mp4",
+      "text": "훈련병!! 자랑스럽다!!"
+     },
+     {
+      "file": "voices/drill/done-3.mp4",
+      "text": "조교가 인정한다!! 최고의 훈련병!!"
+     },
+     {
+      "file": "voices/drill/done-4.mp4",
+      "text": "작전 성공!! 훈련병 만세!!"
+     },
+     {
+      "file": "voices/drill/done-5.mp4",
+      "text": "완벽한 임무 수행이다!!"
+     },
+     {
+      "file": "voices/drill/done-6.mp4",
+      "text": "오늘 최고 전과다!! 잘했다!!"
+     }
+    ],
+    "quit": [
+     {
+      "file": "voices/drill/quit-1.mp4",
+      "text": "중단 접수! 내일 다시 간다!"
+     },
+     {
+      "file": "voices/drill/quit-2.mp4",
+      "text": "쓰러진 훈련병은 일으킨다! 내일 보자!"
+     },
+     {
+      "file": "voices/drill/quit-3.mp4",
+      "text": "철수 명령 접수! 내일 재도전!"
+     },
+     {
+      "file": "voices/drill/quit-4.mp4",
+      "text": "오늘은 여기까지! 휴식도 훈련이다!"
+     },
+     {
+      "file": "voices/drill/quit-5.mp4",
+      "text": "후퇴는 패배가 아니다! 재정비!"
+     },
+     {
+      "file": "voices/drill/quit-6.mp4",
+      "text": "다음 작전에서 만회한다!"
+     }
+    ],
+    "idle": [
+     {
+      "file": "voices/drill/idle-1.mp4",
+      "text": "대기 시간 초과! 즉시 개시!"
+     },
+     {
+      "file": "voices/drill/idle-2.mp4",
+      "text": "훈련병! 지금 뭐 하나! 움직여!"
+     },
+     {
+      "file": "voices/drill/idle-3.mp4",
+      "text": "훈련병! 근무 태만이다!"
+     },
+     {
+      "file": "voices/drill/idle-4.mp4",
+      "text": "멍때리기 금지! 즉시 기동!"
+     },
+     {
+      "file": "voices/drill/idle-5.mp4",
+      "text": "대기 시간 끝! 움직여라!"
+     },
+     {
+      "file": "voices/drill/idle-6.mp4",
+      "text": "놀고 있나! 임무가 남았다!"
+     }
+    ],
+    "tempt": [
+     {
+      "file": "voices/drill/tempt-1.mp4",
+      "text": "적 출현! 조교가 처리했다! 집중!"
+     },
+     {
+      "file": "voices/drill/tempt-2.mp4",
+      "text": "알림 차단! 전방 주시!"
+     },
+     {
+      "file": "voices/drill/tempt-3.mp4",
+      "text": "적의 유혹이다! 무시하라!"
+     },
+     {
+      "file": "voices/drill/tempt-4.mp4",
+      "text": "알림 격파! 전방 주시!"
+     },
+     {
+      "file": "voices/drill/tempt-5.mp4",
+      "text": "흔들리지 마라! 목표만 본다!"
+     },
+     {
+      "file": "voices/drill/tempt-6.mp4",
+      "text": "치킨은 작전 종료 후 보급이다!"
+     }
+    ],
+    "target": [
+     {
+      "file": "voices/drill/target-1.mp4",
+      "text": "목표 시간 도달!! 합격!!"
+     },
+     {
+      "file": "voices/drill/target-2.mp4",
+      "text": "목표 달성!! 추가 훈련은 자율이다!!"
+     },
+     {
+      "file": "voices/drill/target-3.mp4",
+      "text": "목표 고지 점령!! 대단하다!!"
+     },
+     {
+      "file": "voices/drill/target-4.mp4",
+      "text": "임무 시간 달성!! 훌륭하다!!"
+     },
+     {
+      "file": "voices/drill/target-5.mp4",
+      "text": "합격!! 조교가 인정한다!!"
+     },
+     {
+      "file": "voices/drill/target-6.mp4",
+      "text": "작전 목표 달성!! 박수!!"
+     }
+    ],
+    "morning": [
+     {
+      "file": "voices/drill/morning-1.mp4",
+      "text": "기상!! 침상 정리! 물 한 잔! 실시!"
+     },
+     {
+      "file": "voices/drill/morning-2.mp4",
+      "text": "오늘 임무 시작! 첫 번째 즉시 개시!"
+     },
+     {
+      "file": "voices/drill/morning-3.mp4",
+      "text": "기상!! 오늘 작전 브리핑 시작!"
+     },
+     {
+      "file": "voices/drill/morning-4.mp4",
+      "text": "아침 점호! 정신 무장!"
+     },
+     {
+      "file": "voices/drill/morning-5.mp4",
+      "text": "기상 완료! 세면 실시!"
+     },
+     {
+      "file": "voices/drill/morning-6.mp4",
+      "text": "오늘도 승리하는 하루다! 기상!"
+     }
+    ],
+    "night": [
+     {
+      "file": "voices/drill/night-1.mp4",
+      "text": "일과 종료! 수고했다! 취침!"
+     },
+     {
+      "file": "voices/drill/night-2.mp4",
+      "text": "점호 끝! 내일 또 간다! 취침!"
+     },
+     {
+      "file": "voices/drill/night-3.mp4",
+      "text": "취침 점호! 오늘 수고했다!"
+     },
+     {
+      "file": "voices/drill/night-4.mp4",
+      "text": "소등! 내일 다시 훈련이다!"
+     },
+     {
+      "file": "voices/drill/night-5.mp4",
+      "text": "오늘 전투 끝! 푹 쉬어라!"
+     },
+     {
+      "file": "voices/drill/night-6.mp4",
+      "text": "취침! 내일 기상 나팔 기다려라!"
+     }
+    ]
+   }
+  }
+ }
+}
