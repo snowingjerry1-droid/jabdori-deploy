@@ -1,0 +1,29 @@
+{
+  "name": "잡도리 — 목소리로 잡아주는 알람",
+  "short_name": "잡도리",
+  "description": "코치를 골라 목표를 잡도리 당하는 동기부여 알람",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#17151f",
+  "theme_color": "#17151f",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "scope": "./"
+}
